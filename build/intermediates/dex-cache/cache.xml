@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Ekami/workspace/Shimmer-android/sample/build/intermediates/exploded-aar/Shimmer-android/library/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="05427dc865813aa2b66248a4ffd626dd4d68d9d1">
+        <dex dex="/Users/Ekami/workspace/Shimmer-android/sample/build/intermediates/pre-dexed/debug/classes-f4298a2e296b06c71b56835f4a4a183f3a58c20c.jar" />
+    </item>
+
+</items>
